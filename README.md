@@ -1,10 +1,5 @@
 # Paradise Lost
-A modern plain english translation of John Milton's Paradise Lost.
-
-A few notes:
-- I am simply interested in the literature. Religious notions neither here nor there.
-- This will be subjective, as it is my own interperetation.
-- This is a work in progress, in my free time.
+A modern plain english translation of John Milton's Paradise Lost. I am simply interested in the literature. Religious notions neither here nor there. This will be subjective, as it is my own interperetation, and just done in my free time. Progress in this is equal to my progress reading the actual book. If you'd like to open an issue for a suggestion or correction, please do! But do this only for the interperetations so far, please do not go further into the book than what is presented here. Thank you.
 
 ## Book I
 
