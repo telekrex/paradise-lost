@@ -22,6 +22,8 @@ Satan does not reply, instead storms towards his legion of fallen angels, grabs 
 And so they rise up, Satan's army. They are angel-like in appearance but not in essence. Satan's generals take charge, each of them representing a category of sin.
 
 Generals:
+- Beezlbub
+- Mammon
 - Ashtaroth
 - Baalim
 - Thammuz
