@@ -18,3 +18,22 @@ He exits Hell (Chaos?) through a volcano? He looks to Earth and thinks, "Fine th
 Beelzbub says to Satan: "Won't God see this? And revive his armies?"
 
 Satan does not reply, instead storms towards his legion of fallen angels, grabs a spear and shield and launches into a speech. Basically saying "are you with me or have you fallen enough to stay fallen here?"
+
+And so they rise up, Satan's army. They are angel-like in appearance but not in essence. Satan's generals take charge, each of them representing a category of sin.
+
+Generals:
+- Ashtaroth
+- Baalim
+- Thammuz
+- Peor
+- Moloch
+- Osiris
+- Iris
+- Onis
+- Belial (Vanity)
+
+They blow into great horns, flutes, and other instruments, which echo into the ceilings of Chaos. The fallen angels join in Satan's rage, then wait for his command.
+
+Satan looks at them. He stands, watching in pride - but also feels sorry that his followers will forever be in pain. He begins to speak, this time between sighs and tears. He speaks of a war to defy God and that Chaos will never hold them - and that it will be settled one way or another.
+
+To this, the army turns to action. They begin to dig up the Chaos hills and take gold from the interior of the Earth, to build a palace with.
