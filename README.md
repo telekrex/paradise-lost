@@ -1,12 +1,18 @@
-# Paradise Lost
-A modern plain english translation of John Milton's Paradise Lost. I am simply interested in the literature. Religious notions neither here nor there. This will be subjective, as it is my own interperetation, and just done in my free time. Progress in this is equal to my progress reading the actual book. If you'd like to open an issue for a suggestion or correction, please do! But do this only for the interperetations so far, please do not go further into the book than what is presented here. Thank you.
+# About this Paradise Lost translation
+This is my attempt at a modern plain english translation of John Milton's Paradise Lost, for literary purposes. Religious notions are neither here nor there. This work will be subjective, as it is my own interperetation, and just done in my free time. The way I am doing this is I'm reading the book when I have time, taking some notes, and later processing those notes into a simple story. Progress in this repository is equal to my progress reading the actual book. Until I've finished a first read through the entire book, the 'translation' text will be messy and inconsistent. The plan is to first finish reading and interpereting, and then go over with a second draft to make it nicer.
 
-## Some asides
-- The story takes place *during* Adam and Eve; where we are in Book 1, I believe Adam and Eve are currently in the Garden of Eden.
-- The work can be thought of as essentially an *expansion* of Genesis.
-- It is written from a third person *omniscient perspective*, where the narration knows both the past present future as well as things from present day (at the time of authoring);it often refers to geography and events for comparison or reference that shouldnt be there yet at the time of the story. That was weird to get accustomed to, but I try to picture it like a documentary.
+# Contributions
+If you'd like to make a suggestion or correction, please do! Use the issue tracker feature for that please. But do this only for the interperetations so far, please do not go further into the book than what is presented here, as I'm trying to keep my interperetation un-influenced, at least until I've read through the complete book once. Thank you.
 
-## Book I
+---
+
+## Some asides that helped me understand the writing of Paradise Lost
+- The work can be thought of as essentially an *expansion* of Genesis, not a replacement, pre/sequel, or other.
+- Book 1 is sortof like a cinematic introduction; it is not so much the unfolding of current events. Book 2 is where the story begins.
+- The story takes place *during* Adam and Eve. During Books 1-2, I believe Adam and Eve are currently in the Garden of Eden.
+- It is written from a *omniscient third person perspective*, where the narration is in a place beyond past, present, or future. John Milton frequently uses real world geography, events, and cultures (at the time of writing between 1658 and 1663) as similie and metaphor, which was really confusing to me when I started reading because a lot of these references feel out of place considering the time in human history that we're supposed to be in for the story. But if I just remember these are an author's way of describing things, I accept. Try to picture it like a dramatized documentary.
+
+## Book I (rough draft)
 
 Satan revolted from God and was cast out to Chaos, a dark abyss. With him he took legions of angels.
 
@@ -46,3 +52,5 @@ Satan looks at them. He stands, watching in pride - but also feels sorry that hi
 To this, the army turns to action. They begin to dig up the Chaos hills and take gold from the interior of the Earth, to build a palace with.
 
 The angels sing and dance and enjoy their palace before then sitting down settling down and awaiting council.
+
+## Book 2 (rough draft)
